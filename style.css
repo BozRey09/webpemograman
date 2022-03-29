@@ -1,0 +1,43 @@
+body {
+  background-image: url(img/wallpapper.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px;
+}
+
+.kop-surat {
+  background-color: rgba(36, 126, 228, 0.644);
+  padding: 30px;
+  border-radius: 1%;
+  width: 1000px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.box2 {
+  background-color: rgba(36, 126, 228, 0.658);
+  padding: 30px;
+  border-radius: 1%;
+  margin: auto;
+  width: 1000px;
+  color: white;
+}
+
+.box2 h1 {
+  text-align: center;
+}
+
+.mt-3 {
+  background-color: white;
+  padding: 2%;
+  border-radius: 2%;
+}
+
+.garis {
+  border: 5px solid rgb(253, 253, 253);
+  border-radius: 5px;
+}
+
+table tr td {
+  padding: 5px;
+}
